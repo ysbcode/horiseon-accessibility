@@ -28,4 +28,5 @@ THEN I find a concise, descriptive title
 8. Application deployed at live Git Hub URL
 
 ### Screenshot of Deployed Web Page:
+![Horiseonlandingpage](assets\images\Horiseon landing page.png)
 
