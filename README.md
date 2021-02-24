@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 8. Application deployed at live Git Hub URL
 
 ### Screenshot of Deployed Web Page:
-![Horiseonlandingpage] (assets\images\Horiseon landing page.png)
+[Horiseonlandingpage] (https://github.com/ysbcode/horiseon-accessibility/blob/main/assets/images/Horiseon%20landing%20page.png?raw=true)
 
 ### Link to Git Hub Repository:
 [Github] (https://github.com/ysbcode/horiseon-accessibility "Github Repository")
